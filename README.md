@@ -41,7 +41,7 @@ Le but de ce projet est de créer une application graphique d'édition de forme 
 
 - Cliquez sur "Show HTML output"
 
-- Vous avez aussi accès à la [documentation](https://www.projets.lerwox.com/ShapEditor/doc) en ligne
+- Vous avez aussi accès à la [documentation](http://lenhard-erwan.fr/ShapEditor/doc) en ligne
 
 
 # Utilisation --- Aide
